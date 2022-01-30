@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/utilites/CalculVote.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/votes/UnTour.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/votes/Scrutin.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/votes/DeuxTours.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/parametres/Electeur.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/votes/Approbation.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/votes/Borda.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/views/MontrerResultat.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/parametres/Candidat.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/parametres/Axe.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/views/Parametres.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/parametres/Personne.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/models/votes/Alternatif.java</file>
+            <file>file:/F:/Polytech/APO/APO_Interface/src/apo_interface/main.java</file>
+        </group>
+    </open-files>
+</project-private>
